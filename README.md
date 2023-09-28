@@ -1,4 +1,4 @@
-# ML_based_rPPG_construction
+# ML based rPPG construction
 
 Manuscript: A Machine Learning–Based Approach for Constructing Remote Photoplethysmogram Signals from Video Cameras. 
 
