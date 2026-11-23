@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "A machine learning-based approach for constructing remote photoplethysmogram signals from video cameras (code)"
+repository-code: "https://github.com/rodrigo-castellano/ML_based_rPPG_construction"
+authors:
+  - family-names: "Castellano Ontiveros"
+    given-names: "Rodrigo"
+    orcid: "https://orcid.org/0000-0003-2324-633X"
+  - family-names: "Elgendi"
+    given-names: "Mohamed"
+    orcid: "https://orcid.org/0000-0003-1831-0202"
+  - family-names: "Menon"
+    given-names: "Carlo"
+    orcid: "https://orcid.org/0000-0002-2309-9977"
+preferred-citation:
+  type: article
+  title: "A machine learning-based approach for constructing remote photoplethysmogram signals from video cameras"
+  authors:
+    - family-names: "Castellano Ontiveros"
+      given-names: "Rodrigo"
+      orcid: "https://orcid.org/0000-0003-2324-633X"
+    - family-names: "Elgendi"
+      given-names: "Mohamed"
+      orcid: "https://orcid.org/0000-0003-1831-0202"
+    - family-names: "Menon"
+      given-names: "Carlo"
+      orcid: "https://orcid.org/0000-0002-2309-9977"
+  journal: "Communications Medicine"
+  volume: "4"
+  issue: "1"
+  start: 109
+  year: 2024
+  doi: "10.1038/s43856-024-00519-6"
+  url: "https://rodrigocastellano.com/papers/rppg-construction/"
