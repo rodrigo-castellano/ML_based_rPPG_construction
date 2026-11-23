@@ -8,6 +8,10 @@ Manuscript: A Machine Learning–Based Approach for Constructing Remote Photople
 
 Authors: Rodrigo Castellano Ontiveros, Mohamed Elgendi, and Carlo Menon. Code written by Rodrigo Castellano Ontiveros. BMHT lab, ETH, master thesis project.
 
+## Licence
+
+Apache License 2.0. See [LICENSE](LICENSE).
+
 ## Citation
 
 If you use this code, please cite:
