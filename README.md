@@ -1,5 +1,7 @@
 # ML based rPPG construction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10514294.svg)](https://doi.org/10.5281/zenodo.10514294)
+
 Communications Medicine 4, 109 (2024)  
 [Paper page](https://rodrigocastellano.com/papers/rppg-construction/) · [PDF](https://rodrigocastellano.com/papers/rppg-construction/rppg-construction-commsmed2024.pdf) · [Official version](https://doi.org/10.1038/s43856-024-00519-6)
 
@@ -14,7 +16,7 @@ Apache License 2.0. See [LICENSE](LICENSE).
 
 ## Citation
 
-If you use this code, please cite:
+If you use this code, please cite the paper below. The code itself is archived on Zenodo: [doi:10.5281/zenodo.10514294](https://doi.org/10.5281/zenodo.10514294).
 
 ```bibtex
 @article{castellanoontiveros2024rppg,

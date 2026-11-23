@@ -3,6 +3,10 @@ message: "If you use this code, please cite the paper below."
 title: "A machine learning-based approach for constructing remote photoplethysmogram signals from video cameras (code)"
 repository-code: "https://github.com/rodrigo-castellano/ML_based_rPPG_construction"
 license: Apache-2.0
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.10514294"
+    description: "Zenodo archive of the code (all versions)"
 authors:
   - family-names: "Castellano Ontiveros"
     given-names: "Rodrigo"
